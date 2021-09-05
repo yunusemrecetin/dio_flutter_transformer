@@ -4,7 +4,7 @@ description:  A dio transformer espically for flutter, by which the json decodin
 version: 3.0.2
 author: wendux <824783146@qq.com>
 homepage: https://github.com/flutterchina/dio_flutter_transformer
-
+publish_to: none
 environment:
   sdk: ">2.4.0 <3.0.0"
 
